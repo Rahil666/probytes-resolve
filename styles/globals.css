@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700&display=swap");
+:root {
+  --primaryColor: #af0509;
+  --secondaryColor: #f9971a;
+  --bgColorPrimary: #fce8ea;
+  --bgColorSecondary: #f0f3f6;
+  --bgColorDark: #130609e3;
+  --fontFamily: "Poppins", sans-serif;
+  --grayColor1: #999;
+  --grayColor2: #777;
+  --grayColor3: #555;
+  --darkGrayColor1: #333;
+  --darkGrayColor2: #222;
+  --lightGrayColor1: #ccc;
+  --lightGrayColor2: #ddd;
+  --lightGrayColor3: #eee;
+  --lightGrayColor4: #f3f3f3;
+  --lightGrayColor5: #f7f7f7;
+}
+
+
+
+#collapseR3:not(.show) {
+  display: block !important;
+}
+
+#collapseR4:not(.show) {
+  display: block !important;
+}
+
+#collapseR5:not(.show) {
+  display: block !important;
+}
